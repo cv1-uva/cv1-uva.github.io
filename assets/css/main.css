@@ -2640,6 +2640,7 @@
 				width: 100%;
 			}
 
+
 /* List */
 
 	ol {
@@ -3372,6 +3373,13 @@
 		.wrapper.fade.inactive > .inner, body.is-loading .wrapper.fade > .inner {
 			opacity: 0;
 		}
+
+		.wrapper.fade-up > .inner > center .image img {
+			border-radius: 50%;
+			display: block;
+			height: 7em;
+		}
+
 
 /* Header */
 
