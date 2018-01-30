@@ -2058,7 +2058,7 @@
 	}
 
 		.features section {
-			padding: 1em 1em 0em 7em ;
+			padding: 1em 1em 0em 4.5em ;
 			width: 50%;
 			border-top: solid 1px rgba(255, 255, 255, 0.15);
 			position: relative;
@@ -2086,8 +2086,8 @@
 				-ms-transform: scale(1);
 				transform: scale(1);
 				position: absolute;
-				left: 3em;
-				top: 3em;
+				left: 1em;
+				top: 1.5em;
 				opacity: 1;
 			}
 
